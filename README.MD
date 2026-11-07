@@ -64,7 +64,7 @@ The dataset contains 30 numerical features, including measurements related to ra
 
 ## c. GitHub Repository Link
 
-**GitHub Repository:** [Insert your GitHub repository URL here]
+**GitHub Repository:** https://github.com/himanshumishra10000/breast-cancer-ml-deployment
 
 The repository contains the Streamlit application, trained machine learning models, test dataset, requirements file, README documentation, and source code used for model development.
 
